@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, Roman is here!</h1>
 <h3 align="center">A passionate web developer from Seattle</h3>
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **React, Bootstrap 5, Node.js and Strapi**
 
 - 💬 Ask me about **javascript**
 
