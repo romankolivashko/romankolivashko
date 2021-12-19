@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rkolivashko@gmail.com**
 
-- 📫 My works <a href="https://www.kolivashko.com" target="blank">www.kolivashko.com</a>
+- 📫 My works **rkolivashko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
