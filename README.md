@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rkolivashko@gmail.com**
 
-- 📫 My works **www.rkolivashko.com**
+- <img src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/50/000000/external-portfolio-user-interface-vol-3-prettycons-lineal-color-prettycons-2.png"/> My works **www.kolivashko.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
