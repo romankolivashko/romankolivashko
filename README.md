@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rkolivashko@gmail.com**
 
-- 🔥My works **www.kolivashko.com**
+- 🔥 My works **www.kolivashko.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
